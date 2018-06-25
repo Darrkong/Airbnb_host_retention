@@ -9,3 +9,6 @@ This project predicts AirBnb host churn.  AirBnb hosts lists short term rentals 
 
 To get started, you wil need data from the following links:
 InsideAirBnb, Los Angeles, 2017: http://data.insideairbnb.com/united-states/ca/los-angeles/2017-04-02/data/listings.csv.gz
+InsideAirBnb, Los Angeles, 2018: http://data.insideairbnb.com/united-states/ca/los-angeles/2018-05-09/data/listings.csv.gz
+
+
